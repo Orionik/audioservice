@@ -1,0 +1,16 @@
+<ezstream>
+  <url>http://127.0.0.1:7788/stream</url>
+  <sourcepassword>hackme</sourcepassword>
+  <format>MP3</format>
+  <filename>music/playlist.m3u</filename>
+  <stream_once>0</stream_once>
+  <shuffle>1</shuffle>
+  <svrinfoname>Radio-server</svrinfoname>
+  <svrinfourl>http://127.0.0.1:7788/stream</svrinfourl>
+  <svrinfogenre>pop</svrinfogenre>
+  <svrinfodescription>pop music</svrinfodescription>
+  <svrinfobitrate>128</svrinfobitrate>
+  <svrinfochannels>2</svrinfochannels>
+  <svrinfosamplerate>44100</svrinfosamplerate>
+  <svrinfopublic>0</svrinfopublic>
+</ezstream>
